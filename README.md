@@ -4,12 +4,12 @@
 #####  I love iOS development
 ##### 🤝 Got along with Swift, UIKit, Programmatic UI, SwiftUI
 
-# Here are the links to my Apps on Apple Store :
+# Links to my Apps on Apple Store :
 
 ##### [🔖 Shukatsu Job Tracker]
 ##### [🎲 MultiPliGame]
 
-##### my one of web Dev projects:
+# my one of web Dev projects:
 ##### [😋 Yummy Finder]
 
 ###### _They are open source found below in my GitHub page_
