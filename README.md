@@ -1,4 +1,4 @@
-# Hi there 👋 Thank you for visiting my GitHub Profile🥳
+# Hi there 👋 Thank you for visiting my GitHub Page🥳
 
 -  I love iOS development
 - 🤝 Good friends with Swift, UIKit, Programmatic UI, SwiftUI
