@@ -6,11 +6,11 @@
 
 # Links to my Apps on Apple Store :
 
-## [🔖 Shukatsu Job Tracker]
-## [🎲 MultiPliGame]
+- [🔖 Shukatsu Job Tracker]
+- [🎲 MultiPliGame]
 
 # my one of web Dev projects:
-## [😋 Yummy Finder]
+- [😋 Yummy Finder]
 
 ###### _They are open source found below in my GitHub page_
 
