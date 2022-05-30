@@ -1,8 +1,8 @@
 ### Hi there 👋 Thank you for visiting my GitHub Profile🥳
-###
-###  I love iOS development
-### 🤝 Good friends with Swift, UIKit, Programmatic UI, SwiftUI
-###
+
+-  I love iOS development
+- 🤝 Good friends with Swift, UIKit, Programmatic UI, SwiftUI
+
 # Links to my Apps on Apple Store :
 
 - [🔖 Shukatsu Job Tracker]
