@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 # Thank you for visiting my GitHub Profile🥳
-#####  I love iOS development
-##### 🤝 Got along with Swift, UIKit, Programmatic UI, SwiftUI
+###  I love iOS development
+### 🤝 Good friends with Swift, UIKit, Programmatic UI, SwiftUI
 
 # Links to my Apps on Apple Store :
 
-##### [🔖 Shukatsu Job Tracker]
-##### [🎲 MultiPliGame]
+## [🔖 Shukatsu Job Tracker]
+## [🎲 MultiPliGame]
 
 # my one of web Dev projects:
-##### [😋 Yummy Finder]
+## [😋 Yummy Finder]
 
 ###### _They are open source found below in my GitHub page_
 
