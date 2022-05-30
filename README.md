@@ -4,14 +4,15 @@
 #####  I love iOS development
 ##### 🤝 Got along with Swift, UIKit, Programmatic UI, SwiftUI
 
-##### Here are the links to my Apps on Apple Store :
-###### _They are open source found below in my GitHub page_
+### Here are the links to my Apps on Apple Store :
 
 ##### [🔖 Shukatsu Job Tracker]
 ##### [🎲 MultiPliGame]
 
 ##### my one of web Dev projects:
 ##### [😋 Yummy Finder]
+
+###### _They are open source found below in my GitHub page_
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
