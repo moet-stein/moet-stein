@@ -5,7 +5,7 @@
 
 # Links to my Apps on Apple Store :
 
-- [🔖 Shukatsu Job Tracker] Source Code:([🔖])
+- [🔖 Shukatsu Job Tracker] (Source Code:[🔖])
 - [🎲 MultiPliGame]([🎲 Source Code])
 
 # my one of web Dev projects:
