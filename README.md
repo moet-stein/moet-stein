@@ -3,13 +3,13 @@
 -  I love iOS development
 - 🤝 Good friends with Swift, UIKit, Programmatic UI, SwiftUI
 
-# Links to my Apps on Apple Store :
+## Links to my Apps on Apple Store :
 
 - [🔖 Shukatsu Job Tracker]  (⮕ [🔖Source Code]_)
 
 - [🎲 MultiPliGame]  (⮕ [🎲 Source Code])
 
-# my one of web Dev projects:
+## my one of web Dev projects:
 - [😋 Yummy Finder] (⮕ [😋 Source Code])
 
 
