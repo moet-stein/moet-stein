@@ -20,6 +20,6 @@
    [🔖Source Code]: <https://github.com/moet-stein/Shukatsu-Job-Tracker>
    [🎲 MultiPliGame]: <https://apps.apple.com/de/app/multipligame/id1612961419>
    [🎲 Source Code]: <https://github.com/moet-stein/MultiPliGame>
-   [😋 Yummy Finder]: <https://apps.apple.com/de/app/multipligame/id1612961419>
+   [😋 Yummy Finder]: <https://yummy-finder.web.app/>
    [😋 Source Code]: <https://github.com/moet-stein/yummy-finder>
   
