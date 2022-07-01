@@ -9,7 +9,7 @@
 
 - [🎲 MultiPliGame]  (⮕ [🎲 Source Code])
 
-## One of my web Dev projects:
+## One of my web dev projects:
 - [😋 Yummy Finder] (⮕ [😋 Source Code])
 
 
